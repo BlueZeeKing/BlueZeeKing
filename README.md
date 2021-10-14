@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on making some old code better
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about rockets!
 - 📫 How to reach me: Through an issue on any repository
