@@ -1,7 +1,4 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-- 💬 Ask me about rockets!
-- 📫 How to reach me: Through an issue on any repository
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like cats
-- 💻 Languages I know: Python, HTML, CSS, JS, Arduino(C), Java, some PHP, and some C++ 
+![BlueZeeKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueZeeKing&show_icons=true&theme=dark)
+![BlueZeeKing's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlueZeeKing&show_icons=true&theme=dark)
